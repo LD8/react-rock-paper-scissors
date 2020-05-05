@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-rock-paper-scissors/static/css/main.7d608c0a.chunk.css",
+    "main.js": "/react-rock-paper-scissors/static/js/main.92b7a14c.chunk.js",
+    "main.js.map": "/react-rock-paper-scissors/static/js/main.92b7a14c.chunk.js.map",
+    "runtime-main.js": "/react-rock-paper-scissors/static/js/runtime-main.19644656.js",
+    "runtime-main.js.map": "/react-rock-paper-scissors/static/js/runtime-main.19644656.js.map",
+    "static/js/2.cfe0896c.chunk.js": "/react-rock-paper-scissors/static/js/2.cfe0896c.chunk.js",
+    "static/js/2.cfe0896c.chunk.js.map": "/react-rock-paper-scissors/static/js/2.cfe0896c.chunk.js.map",
+    "index.html": "/react-rock-paper-scissors/index.html",
+    "precache-manifest.910bb3483de0c134138bcc50c15dcfe3.js": "/react-rock-paper-scissors/precache-manifest.910bb3483de0c134138bcc50c15dcfe3.js",
+    "service-worker.js": "/react-rock-paper-scissors/service-worker.js",
+    "static/css/main.7d608c0a.chunk.css.map": "/react-rock-paper-scissors/static/css/main.7d608c0a.chunk.css.map",
+    "static/js/2.cfe0896c.chunk.js.LICENSE.txt": "/react-rock-paper-scissors/static/js/2.cfe0896c.chunk.js.LICENSE.txt",
+    "static/media/paper.png": "/react-rock-paper-scissors/static/media/paper.19699e5a.png",
+    "static/media/rock.png": "/react-rock-paper-scissors/static/media/rock.f23b4798.png",
+    "static/media/scissors.png": "/react-rock-paper-scissors/static/media/scissors.5621f992.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19644656.js",
+    "static/js/2.cfe0896c.chunk.js",
+    "static/css/main.7d608c0a.chunk.css",
+    "static/js/main.92b7a14c.chunk.js"
+  ]
+}
